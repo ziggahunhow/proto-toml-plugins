@@ -11,6 +11,9 @@ git-url = "https://github.com/golangci/golangci-lint"
 [platform.linux]
 download-file = "golangci-lint-{version}-linux-{arch}.tar.gz"
 
+[platform.macos]
+download-file = "golangci-lint-1.59.1-darwin-arm64.tar.gz"
+
 [install]
 download-url = "https://github.com/golangci/golangci-lint/releases/download/v{version}/{download_file}"
 
