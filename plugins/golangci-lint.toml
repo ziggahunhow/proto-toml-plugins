@@ -22,4 +22,4 @@ x86 = "386"
 x86_64 = "amd64"
 
 [install.primary]
-exe-path = "golangci-lint-1.59.1-linux-amd64/golangci-lint"
+exe-path = "golangci-lint-1.59.1-darwin-arm64/golangci-lint"
