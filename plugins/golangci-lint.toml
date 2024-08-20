@@ -9,7 +9,7 @@ type = "cli"
 git-url = "https://github.com/golangci/golangci-lint"
 
 [platform.linux]
-download-file = "golangci-lint-{version}-linux-{arch}.tar.gz"
+download-file = "replace"
 exe-path = "linux"
 
 [platform.macos]
